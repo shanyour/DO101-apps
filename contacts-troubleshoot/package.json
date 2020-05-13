@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www.js"
+    "start": "node ./bin/www"
   },
 "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -15,7 +15,7 @@
     "pg": "^7.12.1",
     "pug": "2.0.0-beta11"
   },
-  
+
   "devDependencies": {
     "nodemon": "^1.19.2"
   }
